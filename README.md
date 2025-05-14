@@ -16,13 +16,15 @@ O objetivo deste projeto é **mostrar o que é necessário para fazer um computa
 >  
 > Além de ser uma forma prática de refrescar minhas habilidades com processadores antigos, esse projeto é uma ótima maneira de **entender — no mais baixo nível — como um computador funciona**: sinal por sinal, instrução por instrução.
 
+O esquema pode ser visualizado na imagem abaixo, ou baixado por [aqui](./files/minimal-z80-computer.kicad_sch). Não se esqueça de importar a [biblioteca](./files/libs.kicad_sym) para evitar conflitos.
+
 ---
 
 ## Imagens
 
 | Esquemático (KiCad) | Placa |
 |----------------------|------------------------|
-| ![esquema](./imagens/esquematico.jpg) | ![placa](./imagens/placa.jpg) |
+| ![esquema](./files/esquematico.jpg) | ![placa](./files/placa.jpg) |
 
 ---
 
