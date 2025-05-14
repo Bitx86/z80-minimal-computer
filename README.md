@@ -22,7 +22,7 @@ O objetivo deste projeto é **mostrar o que é necessário para fazer um computa
 
 | Esquemático (KiCad) | Placa |
 |----------------------|------------------------|
-| ![esquema](./imagens/esquematico.png) | ![placa](./imagens/placa.jpg) |
+| ![esquema](./imagens/esquematico.jpg) | ![placa](./imagens/placa.jpg) |
 
 ---
 
